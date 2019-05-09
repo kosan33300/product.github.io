@@ -70,10 +70,10 @@ i {
 }
 
 .banner {
-  padding-top: 70px;
+  padding-top: 250px;
   color: white;
   text-align: center;
-  height: 70vh;
+  height: 100vh;
   background-size: cover !important;
   display: flex;
   align-items: center;
@@ -88,8 +88,7 @@ i {
 .banner p {
   font-size: 25px;
   font-weight: lighter;
-  color: white;
-  opacity: 0.6;
+  color: black;
   margin-bottom: 30px;
 }
 
